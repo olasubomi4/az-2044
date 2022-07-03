@@ -1,0 +1,12 @@
+/Users/olasubomi/Projects/rock/Rock.Utilities/bin/Release/net6.0/Rock.Utilities.deps.json
+/Users/olasubomi/Projects/rock/Rock.Utilities/bin/Release/net6.0/Rock.Utilities.dll
+/Users/olasubomi/Projects/rock/Rock.Utilities/bin/Release/net6.0/Rock.Utilities.pdb
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/Rock.Utilities.csproj.AssemblyReference.cache
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/Rock.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/Rock.Utilities.AssemblyInfoInputs.cache
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/Rock.Utilities.AssemblyInfo.cs
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/Rock.Utilities.csproj.CoreCompileInputs.cache
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/Rock.Utilities.dll
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/refint/Rock.Utilities.dll
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/Rock.Utilities.pdb
+/Users/olasubomi/Projects/rock/Rock.Utilities/obj/Release/net6.0/ref/Rock.Utilities.dll

@@ -1,0 +1,15 @@
+/Users/olasubomi/Projects/rock/rock.Models/bin/Release/net6.0/rock.Models.deps.json
+/Users/olasubomi/Projects/rock/rock.Models/bin/Release/net6.0/rock.Models.dll
+/Users/olasubomi/Projects/rock/rock.Models/bin/Release/net6.0/rock.Models.pdb
+/Users/olasubomi/Projects/rock/rock.Models/bin/Release/net6.0/Rock.Utilities.dll
+/Users/olasubomi/Projects/rock/rock.Models/bin/Release/net6.0/Rock.Utilities.pdb
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.csproj.AssemblyReference.cache
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.AssemblyInfoInputs.cache
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.AssemblyInfo.cs
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.csproj.CoreCompileInputs.cache
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.csproj.CopyComplete
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.dll
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/refint/rock.Models.dll
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/rock.Models.pdb
+/Users/olasubomi/Projects/rock/rock.Models/obj/Release/net6.0/ref/rock.Models.dll
