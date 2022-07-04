@@ -42,7 +42,7 @@ namespace rock.services
 
             List<Category> categories_lst = new List<Category>();
 
-            string statement = "SELECT Id,Name,DisplayOrder,CreatedDateTime FROM[rockstaging].[dbo].[categories]";
+            string statement = "SELECT Id,Name,DisplayOrder,CreatedDateTime FROM[rock].[dbo].[categories]";
 
             conn.Open();
 
